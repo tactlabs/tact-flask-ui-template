@@ -1,4 +1,4 @@
-## Craigstlist Data Collector
+## TACT Flask UI Template
 
 Install requirements
 ```
